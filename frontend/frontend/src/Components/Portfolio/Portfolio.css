@@ -1,0 +1,32 @@
+.card-container{
+    background-color:lightblue;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    width: 85%;
+    padding: 2rem;
+    border-radius: 2%;
+    box-shadow: 5px 10px 10px black;
+
+}
+
+.first-card{
+    background-color: blue;
+    margin: 2rem auto;
+    box-shadow: 5px 10px 10px black;
+    border-radius: 2%;
+    padding: 1%;
+}
+
+.img-project{
+    width: 75%;
+
+}
+
+
+.btn-visitar{
+    background-color:goldenrod;
+    padding: 0.2rem;
+    text-decoration: none;
+    border-radius: 3%;
+}

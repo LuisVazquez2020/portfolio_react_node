@@ -1,0 +1,36 @@
+.container{
+    background-color:lightblue;
+    display: flex;
+    margin: 10px auto;
+    width: 85%;
+    padding: 2rem;
+    border-radius: 2%;
+    box-shadow: 5px 10px 10px black;
+}
+
+.div-foto{
+display: inline;
+width: 30%;
+}
+
+.foto-perfil{
+width: 80%;    
+}
+
+.descripcion{
+
+}
+
+.skills{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+
+}
+
+.skill{
+background-color:aquamarine;
+margin: 0.2rem;
+padding: 1rem;
+border-radius: 0.5rem;
+}
