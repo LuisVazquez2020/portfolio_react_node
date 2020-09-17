@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Luis Vazquez",
+        "profession" : "Full Stack Developer",
+        "photo" : "https://i.ibb.co/Z1YhHz0/Whats-App-Image-2020-09-14-at-1-02-52-AM.jpg",
+        "about_me" : "Soy un entusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración entre comunidades para lograr un mejor ecosistema en el ambito de la tecnologia.",
+        "skills": [
+        "Javascript",
+        "NodeJs",
+        "ReactJS",
+        "Angular",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "MongoDB"
+        ]
+    }
+]
