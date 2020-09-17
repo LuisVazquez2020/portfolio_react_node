@@ -2,14 +2,14 @@
     {
         "name": "Proyecto 1",
         "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
-        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "link" : "http://cv.giulianaolmos.guixon.com/"
+        "image": "https://i.ibb.co/Z1YhHz0/Whats-App-Image-2020-09-14-at-1-02-52-AM.jpg",
+        "link" : "#"
     },
     {
         "name": "Proyecto 2",
         "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
-        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "link": "http://cv.giulianaolmos.guixon.com/"
+        "image": "https://i.ibb.co/Z1YhHz0/Whats-App-Image-2020-09-14-at-1-02-52-AM.jpg",
+        "link": "#"
     }
 
 ]
